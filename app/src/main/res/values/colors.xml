@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="influenza1">#210CAE</color>
+    <color name="influenza">#1E2AD2</color>
+    <color name="army">#727a17</color>
+    <color name="piggyPink">#ffdde1</color>
+</resources>

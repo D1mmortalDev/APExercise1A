@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="user_name">Bernadette de Jesus</string>
+    <string name="user_location">Bataan, Philippines</string>
+    <string name="btn_edit_display">Edit Profile</string>
+    <string name="header_about_me">About Me</string>
+    <string name="header_interest">Interests</string>
+    <string name="header_education">Education</string>
+    <string name="header_experience">Experience</string>
+    <string name="about_me_details">There is nothing much about me</string>
+    <string name="interest_details">Hiking, dogs, nature, movies, camping</string>
+    <string name="education_details">Bachelor of Science in Information Technology</string>
+    <string name="experience_details"> Cumulatively three years working as a cutie pie</string>
+</resources>
